@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git takes a snapshot of all the files in the current directory when you enter git init.  This creates the first snapshot of the repository where all future files to be changed with commits will be stored.
